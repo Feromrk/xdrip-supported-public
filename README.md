@@ -1,4 +1,4 @@
-# xdrip-supported (not maintained)
+# xdrip-supported (created 2020, not maintained)
 
 
 I wanted to learn Javascript, [VueJS](https://vuejs.org/) and [Google Firebase](https://firebase.google.com/), so I came up with this small project.
